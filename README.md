@@ -5,7 +5,7 @@
   
 ---
 ## **Conceptos de Informática**..
-- Curso Básico de Computadores e Informática (Pz)#
+- Curso Básico de Computadores e Informática (Pz)##
   - https://platzi.com/cursos/computacion-basica/
 - Computadoras (DC) #
 - 
