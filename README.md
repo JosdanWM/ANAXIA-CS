@@ -1,10 +1,7 @@
 # **Computer Science**
 
----
-  **Importante**: Este no es un programa académico formal a seguir, todo lo contrario en un programa empírico y adaptativo de programación elaborado de acuerdo a mis necesidades de aprendizaje como aprendiz autodidacta.
-  
----
-## **Conceptos de Informática**..
+
+## **01. Conceptos Esenciales de Computación e Informática** ...
 - Curso Básico de Computadores e Informática (Pz)##
   - https://platzi.com/cursos/computacion-basica/
 - Computadoras (DC) #
@@ -14,13 +11,12 @@
 - Instruir a una Computadora Eficientemente (DC).. 
 - Qué pueden y no pueden hacer Computadoras (DC).. 
  <!--DataCamp-->
- 
-## **Conceptos Esenciales de Computación e Informática** ..
 - Conceptos Esenciales de Computación e Informática - I (anaxia)..
 - Conceptos Esenciales de Computación e Informática - II (anaxia)..
 - Conceptos Esenciales de Computación e Informática - III (anaxia)..
 
-## **Glosario Bilingüe de Sistemas Operativos**
+
+## **02. Glosario Bilingüe de Sistemas Operativos**
 - Glosario Bilingüe del Sistema Operativo Windows (anaxia)....
 - Glosario Bilingüe del Sistema Operativo macOS (anaxia)....
 - Glosario Bilingüe del Sistema Operativo linux (anaxia)....
@@ -29,8 +25,6 @@
 - Glosario Bilingüe del Sistema Operativo iPadOS (anaxia)....
 - Glosario Bilingüe de Redes Informáticas e Internet (anaxia)....
 - Glosario Bilingüe de Computación en la Nube (anaxia)....
-
-
 
 
 ## **Introducción de las Ciencias de la Computación** ....
