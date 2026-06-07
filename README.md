@@ -1,4 +1,4 @@
-# **Ciencias de la Computación**
+# **Computer Science**
 
 ---
   **Importante**: Este no es un programa académico formal a seguir, todo lo contrario en un programa empírico y adaptativo de programación elaborado de acuerdo a mis necesidades de aprendizaje como aprendiz autodidacta.
